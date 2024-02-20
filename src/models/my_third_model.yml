@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: my_third_model
+    meta:
+      experts:
+        users:
+          - aliaksei.bahamazau@y42.com
+    config:
+      y42:
+        apiVersion: v1
